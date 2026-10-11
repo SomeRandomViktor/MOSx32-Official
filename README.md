@@ -11,7 +11,7 @@ O objetivo é explorar os fundamentos de programação de baixo nível, instruç
 
 ## Download
 
-### [Baixar a versão mais recente do MOSx32 Tools](https://github.com/SEU-USUARIO/MOSx32-Tools/releases/latest)
+### [Baixar a versão mais recente do MOSx32 Tools](https://github.com/SomeRandomViktor/MOSx32-Official/releases/latest)
 
 Acesse a página de Releases para baixar a versão disponibilizada para Windows.
 
@@ -102,4 +102,4 @@ Criador do MOSx32 e desenvolvedor do MOSx32 Tools.
 
 As versões publicadas, seus arquivos para download e as respectivas notas de atualização ficam disponíveis na página de Releases:
 
-**[Acessar todas as versões do MOSx32 Tools](https://github.com/SEU-USUARIO/MOSx32-Tools/releases)**
+**[Acessar todas as versões do MOSx32 Tools](https://github.com/SomeRandomViktor/MOSx32-Official/releases)**
